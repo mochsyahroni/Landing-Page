@@ -27,3 +27,8 @@
     height: 150px;
     border-radius: 5px;
 }
+
+.button1{
+    background: gray;
+    color: black;
+}
